@@ -63,29 +63,9 @@ namespace channelCenter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _3 {
+        internal static System.Drawing.Bitmap desktop_wallpaper_medical_doctor_clinic_doctor {
             get {
-                object obj = ResourceManager.GetObject("3", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _548_5486401_3d_game_button_png_3d_rectangle_button_png {
-            get {
-                object obj = ResourceManager.GetObject("548-5486401_3d-game-button-png-3d-rectangle-button-png", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap buttons_PNG49 {
-            get {
-                object obj = ResourceManager.GetObject("buttons_PNG49", resourceCulture);
+                object obj = ResourceManager.GetObject("desktop-wallpaper-medical-doctor-clinic-doctor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,16 +93,6 @@ namespace channelCenter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap images__1_ {
-            get {
-                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap medical_clinic_instagram_posts___Made_with_PosterMyWall {
             get {
                 object obj = ResourceManager.GetObject("medical clinic instagram posts - Made with PosterMyWall", resourceCulture);
@@ -133,29 +103,9 @@ namespace channelCenter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pexels_pixabay_459369 {
-            get {
-                object obj = ResourceManager.GetObject("pexels-pixabay-459369", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap pngtree_medical_blue_technology_hospital_banner_background_image_208725 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-medical-blue-technology-hospital-banner-background-image_208725", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap คลินิกอายุรกรรมทั่วไป {
-            get {
-                object obj = ResourceManager.GetObject("คลินิกอายุรกรรมทั่วไป", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

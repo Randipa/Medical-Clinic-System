@@ -13,25 +13,9 @@ C:\Users\Chamodi\source\repos\channelCenter\channelCenter\obj\Debug\channelCente
 C:\Users\Chamodi\source\repos\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
 C:\Users\Chamodi\source\repos\channelCenter\channelCenter\obj\Debug\channelCenter.exe
 C:\Users\Chamodi\source\repos\channelCenter\channelCenter\obj\Debug\channelCenter.pdb
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\channelCenter.exe.config
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\channelCenter.exe
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\channelCenter.pdb
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\MetroFramework.Design.dll
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\MetroFramework.dll
-C:\Users\Chamodi\Music\channelCenter\channelCenter\bin\Debug\MetroFramework.Fonts.dll
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.AssemblyReference.cache
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.SuggestedBindingRedirects.cache
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.HomePage.resources
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.Login.resources
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.Properties.Resources.resources
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.ReceptionNew.resources
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.GenerateResource.cache
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CoreCompileInputs.cache
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.exe
-C:\Users\Chamodi\Music\channelCenter\channelCenter\obj\Debug\channelCenter.pdb
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\channelCenter.exe.config
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\channelCenter.exe
+C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\channelCenter.pdb
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\MetroFramework.Design.dll
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\MetroFramework.dll
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\MetroFramework.Fonts.dll
@@ -40,27 +24,43 @@ C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.csp
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.HomePage.resources
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.Login.resources
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.Properties.Resources.resources
-C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.ReceptionNew.resources
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.GenerateResource.cache
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CoreCompileInputs.cache
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.exe
 C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.pdb
-C:\Users\Chamodi\Desktop\channelCenter\channelCenter\bin\Debug\channelCenter.pdb
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\channelCenter.exe.config
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\channelCenter.exe
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\channelCenter.pdb
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\MetroFramework.Design.dll
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\MetroFramework.dll
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\bin\Debug\MetroFramework.Fonts.dll
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.AssemblyReference.cache
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.SuggestedBindingRedirects.cache
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.HomePage.resources
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.Login.resources
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.Properties.Resources.resources
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.ReceptionNew.resources
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.GenerateResource.cache
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CoreCompileInputs.cache
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.exe
-C:\Users\USER\Downloads\Final Project\channelCenter\channelCenter\obj\Debug\channelCenter.pdb
+C:\Users\Chamodi\Desktop\channelCenter\channelCenter\obj\Debug\channelCenter.Reception.resources
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.exe.config
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.exe
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.pdb
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.dll
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.AssemblyReference.cache
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Doctor.resources
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.HomePage.resources
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Login.resources
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Properties.Resources.resources
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.GenerateResource.cache
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.CoreCompileInputs.cache
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.exe
+C:\Users\Chamodi\Desktop\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.pdb
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.exe.config
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.exe
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\channelCenter.pdb
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.dll
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Doctor.resources
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.HomePage.resources
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Login.resources
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.Properties.Resources.resources
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.csproj.CopyComplete
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.exe
+C:\Users\USER\Downloads\Final Project\channelCenter - Doctor\channelCenter\obj\Debug\channelCenter.pdb

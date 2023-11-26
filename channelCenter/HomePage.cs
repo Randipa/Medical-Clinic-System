@@ -19,15 +19,14 @@ namespace channelCenter
 
         private void btnReceptionist_Click(object sender, EventArgs e)
         {
-
-            Login log = new Login();
-            log.Show();
-            Hide();
+            MessageBox.Show("An error occurred. Please contact support.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void btnDoctor_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("An error occurred. Please contact support.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            Login log = new Login();
+            log.Show();
+            Hide();
         }
 
         private void btnPharmacist_Click(object sender, EventArgs e)

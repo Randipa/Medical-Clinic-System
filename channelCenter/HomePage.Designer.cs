@@ -41,7 +41,7 @@
             this.btnPharmacist.Location = new System.Drawing.Point(341, 267);
             this.btnPharmacist.Name = "btnPharmacist";
             this.btnPharmacist.Size = new System.Drawing.Size(118, 38);
-            this.btnPharmacist.TabIndex = 8;
+            this.btnPharmacist.TabIndex = 5;
             this.btnPharmacist.Text = "Pharmacist";
             this.btnPharmacist.UseSelectable = true;
             this.btnPharmacist.Click += new System.EventHandler(this.btnPharmacist_Click);
@@ -54,7 +54,7 @@
             this.btnDoctor.Location = new System.Drawing.Point(341, 207);
             this.btnDoctor.Name = "btnDoctor";
             this.btnDoctor.Size = new System.Drawing.Size(118, 38);
-            this.btnDoctor.TabIndex = 7;
+            this.btnDoctor.TabIndex = 4;
             this.btnDoctor.Text = "Doctor";
             this.btnDoctor.UseSelectable = true;
             this.btnDoctor.Click += new System.EventHandler(this.btnDoctor_Click);
@@ -67,7 +67,7 @@
             this.btnReceptionist.Location = new System.Drawing.Point(341, 145);
             this.btnReceptionist.Name = "btnReceptionist";
             this.btnReceptionist.Size = new System.Drawing.Size(118, 38);
-            this.btnReceptionist.TabIndex = 6;
+            this.btnReceptionist.TabIndex = 3;
             this.btnReceptionist.Text = "Receptionist";
             this.btnReceptionist.UseSelectable = true;
             this.btnReceptionist.Click += new System.EventHandler(this.btnReceptionist_Click);
@@ -83,7 +83,7 @@
             this.Controls.Add(this.btnDoctor);
             this.Controls.Add(this.btnReceptionist);
             this.Name = "HomePage";
-            this.Text = "Home";
+            this.Text = "HomePage";
             this.ResumeLayout(false);
 
         }
